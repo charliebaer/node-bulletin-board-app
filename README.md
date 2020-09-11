@@ -1,4 +1,4 @@
-# node-bulletin-board-app
+# vue-node-bulletin-board-app
 
 **Docker Test Image**
 
