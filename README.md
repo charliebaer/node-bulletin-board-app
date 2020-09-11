@@ -1,6 +1,6 @@
 # node-bulletin-board-app
 
-Docker Test Image 
+**Docker Test Image**
 
 To run the docker container in your localmachine install docker and run 
 ```
